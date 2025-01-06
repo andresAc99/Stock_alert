@@ -42,3 +42,5 @@ Stock_alert/
 
 
 ![alt text](https://github.com/andresAc99/Stock_alert/blob/e252f2bc60065167ca5e8be88fcd79a78ec6f3c1/Estructura%20y%20proceso%20Stock_alert.png)
+
+![prueba](https://github.com/andresAc99/Stock_alert/blob/f68ef2b3cd2a56b6b94ad35221b96d3425b0947a/Test%20stock-alert.jpeg)
