@@ -1,0 +1,8 @@
+twilio
+pandas
+requests
+tqdm
+ta
+yfinance
+numpy
+scikit-learn
