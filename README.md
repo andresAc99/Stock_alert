@@ -31,24 +31,8 @@ Este proyecto envía un resumen diario del cierre del mercado de acciones selecc
    git clone https://github.com/andresAc99/Stock_alert.git
    cd Stock_alert
 
-## BASH 
-pip install -r requirementsx.txt
 
-## configura tu archivo twilio_config.py
-# twilio_config.py
-ACCOUNT_SID = 'tu_account_sid'
-AUTH_TOKEN = 'tu_auth_token'
-FROM_PHONE = 'tu_numero_twilio'
-TO_PHONE = 'tu_numero_destino'
-
-Uso 🚀
-## personaliza las lsita de acciones 
-STOCKS = ["AAPL", "MSFT", "GOOGL"]  # Agrega tus acciones aquí
-
-## Ejecuta tu script antes del cron 
-python3 stock_alert.py
-
-Estructura del Proyecto 🗂️
+## Estructura del Proyecto 🗂️
 Stock_alert/
 │
 ├── stock_alert.py          # Código principal para enviar las alertas
@@ -56,13 +40,5 @@ Stock_alert/
 ├── requirementsx.txt       # Lista de dependencias
 └── README.md               # Documentación del proyecto
 
-Contribuciones 🛠️
-¡Siempre son bienvenidas! Si deseas contribuir a este proyecto, sigue estos pasos:
-
-Haz un fork del repositorio.
-Crea una nueva rama para tu funcionalidad (git checkout -b nueva-funcionalidad).
-Realiza tus cambios y haz un commit (git commit -m "Añadida nueva funcionalidad").
-Haz un push a tu rama (git push origin nueva-funcionalidad).
-Abre un Pull Request.
 
    
